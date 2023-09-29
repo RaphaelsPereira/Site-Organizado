@@ -1,0 +1,72 @@
+.item {
+    visibility: hidden;
+}
+
+.botao {
+    background-color: #e32551;
+    height: 45px;
+    width: 180px;
+    text-align: center;
+    line-height: 47px;
+    font-size: 1.5em !important;
+    border: solid 1px #853aa5;
+}
+
+
+.menu-barras{
+    display: initial;
+}
+
+#icone-menu {
+    color: white;
+    font-size: 30px;
+}
+
+.banner {
+    background-image: url(../imagens/imagem-fundo-ranking.jpg);
+}
+
+.mouse {
+    margin-top: 25px;
+}
+
+.texto-banner {
+    margin-bottom: 90px;
+}
+
+.imagem-sobre {
+    width: 100%;
+}
+
+.texto-sobre {
+    width: 100%;
+    height: unset;
+    padding-top: 20px;
+}
+.texto-participantes {
+    padding-bottom: 10px;
+}
+
+.texto-sobre h3 {
+    padding-bottom: 10px;
+    font-size: 44.2px;
+}
+
+.texto-sobre p {
+    font-size: 20px;
+}
+
+.conteudo-endereco {
+    height: unset;
+}
+
+.mapa {
+    width: 100%;
+    margin-top: 30px;
+}
+
+@media screen and (max-width : 360px){
+    .titulo-senai{
+        font-size: 42px;
+    }
+}
